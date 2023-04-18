@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning ReactJS and Godot4
 - 📫 How to reach me: adeledendena@gmail.com
-- ⚡ Fun fact: ...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adcoding) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/adcoding) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adcoding) [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0000.svg)](https://adcoding.itch.io)
