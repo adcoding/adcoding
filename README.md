@@ -1,7 +1,6 @@
 # 💫 Hello There!
 
-- 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning ReactJS and Godot4
+- 🌱 HTML5, CSS3, JavaScript, React, Next.js, Electron, Linux, Windows, MacOS, Wordpress
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adcoding) [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0000.svg)](https://adcoding.itch.io)
