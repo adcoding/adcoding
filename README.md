@@ -1,56 +1,42 @@
-<h1 align="left">Hello there!</h1>
+# 👋 Hi, I'm Adele (aka **adcoding**)
 
-###
+I'm a **freelance frontend web developer** working remotely. I love creating smooth, interactive user experiences and experimenting with new tech.
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🚀 Currently
 
-<p align="left">✨ Creating bugs since 1994<br>📍 Born in Italy, moved to Slovakia<br>📚 I'm currently working with React, Next js and Javascript<br>🎯 Goals: improving my frontend skills<br>🎲 I like playing games, cooking, reading and making content on social media</p>
+- Working with **React** and exploring the **Godot Engine**
+- Sharpening my **React** skills
+- Learning **game development** and building fun stuff
 
-###
+---
 
-<h2 align="left">Technologies I use</h2>
+### 🛠️ Tech Stack
 
-###
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+![Godot Engine](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=fff)
+![Phaser](https://img.shields.io/badge/-Phaser-2E9AFE?style=flat&logo=phaser&logoColor=fff)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" height="40" alt="gatsby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
+---
 
-###
+### 🎮 Hobbies
 
-<h2 align="left">Let's connect</h2>
+- 🧑‍💻 Coding for fun (and profit)
+- 🍳 Cooking up tasty dishes
+- 🎮 Gaming in my downtime
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/adcoding/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/adele-dendena/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+### 🌐 Connect with Me
 
-###
+[![Instagram](https://img.shields.io/badge/@adcoding_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/adcoding_)
+
+---
+
