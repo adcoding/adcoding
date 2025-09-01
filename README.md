@@ -6,7 +6,7 @@ I'm a **freelance frontend web developer** working remotely. I love creating smo
 
 ### 🚀 Currently
 
-- Working with **React** and exploring the **Godot Engine**
+- Working with **React** and exploring **Godot Engine**
 - Sharpening my **React** skills
 - Learning **game development** and building fun stuff
 
