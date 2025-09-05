@@ -26,14 +26,6 @@ I'm a **freelance frontend web developer** working remotely. I love creating smo
 
 ---
 
-### 🎮 Hobbies
-
-- 🧑‍💻 Coding for fun (and profit)
-- 🍳 Cooking up tasty dishes
-- 🎮 Gaming in my downtime
-
----
-
 ### 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/@adcoding_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/adcoding_)
