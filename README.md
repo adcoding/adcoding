@@ -1,34 +1,36 @@
-# 👋 Hi, I'm Adele (aka **adcoding**)
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-image-link" alt="banner" />
+</p>
 
-I'm a **freelance frontend web developer** working remotely. I love creating smooth, interactive user experiences and experimenting with new tech.
+<!-- Intro -->
+<h1 align="left">Hello, I'm Adele aka adcoding</h1>
+<p align="left">
+  Frontend developer 💻 Split keyboards lover ✨ Game development enthusiast 🎮
+</p>
 
----
+### what I'm working on
+- React and NextJS
+- PhaserJs
+- Godot Engine
+</br>
+<!-- Icons -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,electron,gatsby,firebase,bootstrap,css,tailwind,godot,phaserjs" />
+</p>
 
-### 🚀 Currently
-
-- Working with **React** and exploring **Godot Engine**
-- Sharpening my **React** skills
-- Learning **game development** and building fun stuff
-
----
-
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
-![Godot Engine](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=fff)
-![Phaser](https://img.shields.io/badge/-Phaser-2E9AFE?style=flat&logo=phaser&logoColor=fff)
-
----
-
-### 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/@adcoding_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/adcoding_)
+<!-- gif -->
+<p align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBqZjVqaHB0NGd4ZHB1aWxnajB5cWljd2c3MDFuY3pyZGk3bnQxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yyVph7ANKftIs/giphy.gif" width="200" alt="fun gif" />
+</p>
 
 ---
+### let's connect
+<p align="left">
+  <a href="[https://your-portfolio-link](https://www.instagram.com/adcoding)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://x.com/moreadcoding"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://adcoding.itch.io"> Itch.io <img src="https://skillicons.dev/icons?i=itch" /></a>
+</p>
+
+
 
