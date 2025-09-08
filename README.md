@@ -7,8 +7,8 @@
 </p>
 
 ### what I'm working on
-- React and NextJS
-- PhaserJs
+- React/NextJS/Javascript
+- PhaserJS
 - Godot Engine
 </br>
 <!-- Icons -->
