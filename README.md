@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://your-banner-image-link" alt="banner" />
-</p>
+
 
 <!-- Intro -->
 <h1 align="left">Hello, I'm Adele aka adcoding</h1>
@@ -29,7 +26,6 @@
 <p align="left">
   <a href="[https://your-portfolio-link](https://www.instagram.com/adcoding)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://x.com/moreadcoding"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://adcoding.itch.io"> Itch.io <img src="https://skillicons.dev/icons?i=itch" /></a>
 </p>
 
 
