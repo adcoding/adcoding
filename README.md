@@ -25,7 +25,6 @@
 ### let's connect
 <p align="left">
   <a href="[https://your-portfolio-link](https://www.instagram.com/adcoding)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://x.com/moreadcoding"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 
